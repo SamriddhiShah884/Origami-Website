@@ -1,0 +1,26 @@
+div.gallery {
+    margin: 15px;
+    border: 1px dotted #FF8DC2;
+    float: left;
+    width: 350px;
+    
+  }
+  
+  div.gallery:hover {
+    border: 2px solid #FF8DC2;
+  }
+  
+  div.gallery img {
+    width: 350px;
+    height: auto;
+  }
+  
+  div.desc {
+    padding: 15px;
+    text-align: center;
+    color:#FF8DC2;
+  }
+
+  body{
+    background-color:lightblue;
+  }
